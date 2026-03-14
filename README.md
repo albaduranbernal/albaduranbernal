@@ -17,16 +17,7 @@ Graduada en Bachillerato y en formación actual como desarrolladora de aplicacio
 - 📫 Contacto: <a href="albaduran.25@campuscamara.es">albaduran.25@campuscamara.es</a>
 
 
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
-
-![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
-
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/albaduranbernal">Alba Durán Bernal</a>
+Créditos: <a href="https://github.com/albaduranbernal">Alba Durán Bernal</a>
 
 Fecha: 14/03/2026
