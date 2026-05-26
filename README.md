@@ -5,7 +5,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
 Graduada en Bachillerato y en formación actual como desarrolladora de aplicaciones multiplataforma.
 * **Con especial interés en la creación de soluciones tecnológicas y el desarrollo software**
