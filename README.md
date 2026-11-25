@@ -16,10 +16,10 @@ Estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (D
 
 - 💼 **Experiencia previa:** Desarrolladora Web y Auditoría de Seguridad (FP Dual) en *Sauci Asesores S.L.*
 - 🌸 **Constantemente aprendiendo y trabajando con...**
-  - **Lenguajes & Web:** Java (POO), SQL, PL/SQL, HTML, CSS, XML, XSD, XQuery, XPath
+  - **Lenguajes & Web:** Java (POO), C#, SQL, PL/SQL, HTML, CSS, XML, XSD, XQuery, XPath. 
   - **Ciberseguridad & Auditoría:** Kali Linux, Nmap, Análisis de vulnerabilidades web (WordPress), Hack The Box
   - **Sistemas & DevOps:** Linux (Bash Scripts), Windows Scripts, Docker, Redes
-  - **Bases de Datos & Herramientas:** Oracle, Modelado (ERD/MR), Git/GitHub, WordPress, VS Code, NetBeans
+  - **Bases de Datos & Herramientas:** Oracle, Modelado (ERD/MR), Git/GitHub, WordPress, VS Code, NetBeans, Unity 
 - 🎓 **Certificaciones destacadas:** Cisco (*Introduction to Cybersecurity*), Fortinet (*Cybersecurity & Cloud Fundamentals*) y formación en React, Big Data e IA.
 
 ---
