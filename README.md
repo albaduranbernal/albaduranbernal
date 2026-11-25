@@ -1,5 +1,4 @@
 # Bienvenido a mi perfil
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
 
 
@@ -10,10 +9,13 @@
 Graduada en Bachillerato y en formación actual como desarrolladora de aplicaciones multiplataforma.
 * **Con especial interés en la creación de soluciones tecnológicas y el desarrollo software**
 - 🌱 Constantemente aprendiendo...
-  - Java
+  - Java (POO)
   - SQL
   - HTML
   - CSS
+  - PL-SQL
+  - XML
+  - 
 - 📫 Contacto: <a href="albaduran.25@campuscamara.es">albaduran.25@campuscamara.es</a>
 
 
