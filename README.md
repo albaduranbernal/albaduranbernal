@@ -13,6 +13,7 @@
 Estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en Campus Cámara, con sólida base en lógica de programación y bases de datos. Mi objetivo profesional es especializarme en **Ciberseguridad**, combinando el desarrollo seguro con auditoría de sistemas, análisis de vulnerabilidades y seguridad defensiva en constante aprendizaje.
 
 *  **Con especial interés en el desarrollo seguro, la auditoría de sistemas y la creación de soluciones tecnológicas.**
+
 * 💼 **Experiencia previa:** Desarrolladora Web y Auditoría de Seguridad (FP Dual) en *Sauci Asesores S.L.*
 * 🌸 **Constantemente aprendiendo y trabajando con...**
   * **Lenguajes & Web:** Java (POO), SQL, PL/SQL, HTML, CSS, XML, XSD, XQuery, XPath
