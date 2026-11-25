@@ -1,4 +1,4 @@
-# 🌸 Bienvenido a mi perfil 🌸
+# Bienvenido a mi perfil 
 
 <p align="left">
   <img src="https://img.shields.io/badge/DAM-Estudiante-FFB6C1?style=for-the-badge&logo=bookstack&logoColor=white" alt="DAM" />
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Ubicación-Sevilla,_España-FFC0CB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
 </p>
 
-## 🌷 *Sobre mí*
+##  *Sobre mí*
 
 <img align="right" alt="Gatito programando" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW54Z3J6b2R4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
@@ -23,7 +23,7 @@ Estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (D
 
 ---
 
-## 💌 *Contacto y Redes*
+##  *Contacto y Redes*
 
 <p align="left">
   <a href="mailto:albaduranbernal@gmail.com">
@@ -39,5 +39,5 @@ Estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (D
 
 ---
 
-🩷 Créditos: [Alba Durán Bernal](https://github.com/albaduranbernal)  
+ Créditos: [Alba Durán Bernal](https://github.com/albaduranbernal)  
 📅 Fecha: 25/11/2026
