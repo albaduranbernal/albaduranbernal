@@ -1,4 +1,4 @@
-# 🌸 Bienvenido a mi perfil 🌸
+# Bienvenido a mi perfil 
 
 <p align="left">
   <img src="https://img.shields.io/badge/DAM-Estudiante-FFB6C1?style=for-the-badge&logo=bookstack&logoColor=white" alt="DAM" />
@@ -6,13 +6,13 @@
   <img src="https://img.shields.io/badge/Ubicación-Sevilla,_España-FFC0CB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
 </p>
 
-## 🌷 *Sobre mí*
+##  *Sobre mí*
 
-<img align="right" alt="Gato mago programando" width="230" src="https://media1.tenor.com/m/w42h4S8X8sMAAAAC/wizard-cat-cat-wizard.gif" />
+<img align="right" alt="Gatito programando" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW54Z3J6b2R4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 Estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en Campus Cámara, con sólida base en lógica de programación y bases de datos. Mi objetivo profesional es especializarme en **Ciberseguridad**, combinando el desarrollo seguro con auditoría de sistemas, análisis de vulnerabilidades y seguridad defensiva en constante aprendizaje.
 
-* 🎀 **Con especial interés en el desarrollo seguro, la auditoría de sistemas y la creación de soluciones tecnológicas.**
+*  **Con especial interés en el desarrollo seguro, la auditoría de sistemas y la creación de soluciones tecnológicas.**
 * 💼 **Experiencia previa:** Desarrolladora Web y Auditoría de Seguridad (FP Dual) en *Sauci Asesores S.L.*
 * 🌸 **Constantemente aprendiendo y trabajando con...**
   * **Lenguajes & Web:** Java (POO), SQL, PL/SQL, HTML, CSS, XML, XSD, XQuery, XPath
@@ -23,7 +23,7 @@ Estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (D
 
 ---
 
-## 💌 *Contacto y Redes*
+##  *Contacto y Redes*
 
 <p align="left">
   <a href="mailto:albaduranbernal@gmail.com">
@@ -39,5 +39,5 @@ Estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (D
 
 ---
 
-🩷 Créditos: [Alba Durán Bernal](https://github.com/albaduranbernal)  
+ Créditos: [Alba Durán Bernal](https://github.com/albaduranbernal)  
 📅 Fecha: 25/11/2026
