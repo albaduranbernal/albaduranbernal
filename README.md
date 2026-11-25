@@ -8,7 +8,7 @@
 
 ##  *Sobre mí*
 
-<img align="right" alt="Gato mago programando" width="230" src="./808abb19c0763d95408dd9859a2022dd.jpg" />
+<img align="right" alt="Gato mago programando" width="230" src="./808abb19c0763d95408dd9859a2022dd.gif" />
 
 Estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en Campus Cámara, con sólida base en lógica de programación y bases de datos. Mi objetivo profesional es especializarme en **Ciberseguridad**, combinando el desarrollo seguro con auditoría de sistemas, análisis de vulnerabilidades y seguridad defensiva en constante aprendizaje.
 
